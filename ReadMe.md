@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yevhen Kotliarchuk</h1>
-- 👨‍💻 All of my projects are available at [kotliarchuk.dev](kotliarchuk.dev)
+- 👨‍💻 All of my projects are available at [kotliarchuk.dev](https://kotliarchuk.dev)
 
 - 📫 How to reach me **yeniya06@gmail.com**
 
