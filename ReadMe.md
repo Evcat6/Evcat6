@@ -1,61 +1,72 @@
-<h1 align="center">Hi 👋, I'm Yevhen Kotliarchuk</h1>
+# Yevhen Kotliarchuk
 
-- 👨‍💻 All of my projects are available at [kotliarchuk.dev](https://kotliarchuk.dev)
+### Software Engineer | Full-Stack (Node.js, TypeScript, React, Next.js)
 
-- 📫 How to reach me **yeniya06@gmail.com**
+[Portfolio](https://kotliarchuk.dev) | [CV](https://pmkopgnvfxs5s3us.public.blob.vercel-storage.com/yevhen-kotliarchuk-cv.pdf) | [LinkedIn](https://linkedin.com/in/yevhen-kotliarchuk) | [Email](mailto:yevhenkotliarchuk@gmail.com)
 
-- 📄 Know about my experiences: [CV](https://pmkopgnvfxs5s3us.public.blob.vercel-storage.com/yevhen-kotliarchuk-cv.pdf)
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yevhen-kotliarchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yevhen-kotliarchuk" height="30" width="40" /></a>
+I am a software engineer focused on backend-heavy full-stack development, product integrations, and performance-focused delivery. I currently work on NDA projects in marketing, travel, and fintech, with hands-on responsibility from architecture discussions to production stabilization.
+
+## Core Expertise
+
+- Backend and integration engineering with Node.js, NestJS, PostgreSQL, and external APIs.
+- Performance optimization and legacy stabilization in production systems.
+- Client-facing communication, technical planning, and code quality ownership.
+
+## Experience Highlights
+
+### Softcery | Software Engineer | Jun 2025 - Present
+
+- Delivered backend and product integrations across NDA projects in marketing, travel, and fintech.
+- Integrated analytics providers (including Vector and Clearbit) and improved reliability under peak traffic with load balancing.
+- Contributed to travel booking flows and provider integrations across multi-service B2B travel products.
+- Improved stability and security in a checkout and fraud-protection platform, including legacy codebase improvements.
+
+### B2B Grocery Ordering Platform | Software Engineer | Mar 2025 - May 2025
+
+- Built end-to-end platform capabilities across frontend, backend, and operational workflows.
+- Implemented invoicing automation via REST API and webhooks integration.
+
+### Previous Roles
+
+- BYFL.team | Backend Developer (May 2023 - Oct 2024)
+- CML Team | Software Engineer (Jul 2023 - Oct 2023)
+- Binary Studio Academy | Fullstack Developer Intern (Dec 2022 - Apr 2023)
+
+## Tech Stack
+
+<p>
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+	<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" alt="NestJS" />
+	<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=222" alt="React" />
+	<img src="https://img.shields.io/badge/Next.js-111111?logo=next.js&logoColor=white" alt="Next.js" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<h4>Languages:</h4>
+- Languages: JavaScript, TypeScript, Go, Python, Java, C++
+- Frontend: React, Next.js, Vue.js, Nuxt.js, React Native, Redux
+- Backend: Node.js, NestJS, Express, Fastify
+- Data: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud and Tools: AWS, GCP, Docker, Kafka, Linux, Git, GitHub Actions
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+## Education and Languages
 
-<h4>Frameworks: </h4>
+- BSc in Applied Computer Science, Jagiellonian University (2023 - 2026)
+- Languages: English (professional), Ukrainian (native), Polish (advanced)
 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> </span>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+## Open To
 
-<h4>Libraries:</h4>
+- Full-time software engineering roles
+- Backend-focused full-stack opportunities
+- Product teams where reliability, performance, and ownership matter
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+## GitHub Stats
 
-<h4>Databases: </h4>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-
-<h4>Cloud Providers:</h4>
-
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
-
-<h4>Other Tools & Technologies:</h4>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evcat6&show_icons=true&locale=en&layout=compact" alt="evcat6" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evcat6&show_icons=true&locale=en" alt="evcat6" /></p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=evcat6&show_icons=true&locale=en" alt="GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=evcat6&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+</p>
